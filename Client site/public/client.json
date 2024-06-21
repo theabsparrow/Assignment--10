@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Xannet Coleman",
+        "bloger_photo": "https://i.ibb.co/fv1pqgm/image1.png",
+        "category": "Landscpae painting",
+        "photo": "https://i.ibb.co/kSk7SSt/dreamy-landscape.png",
+        "blog": "Landscape photography is a profound art form that allows us to immortalize the fleeting moments of nature's splendor. From the towering peaks of majestic mountains to the tranquil serenity of a secluded forest, each landscape offers a unique tapestry of colors, textures, and emotions waiting to be discovered."
+
+    },
+    {
+        "name": "Tristun stubs",
+        "bloger_photo": "https://i.ibb.co/zHpKRHd/image2.png",
+        "category": "oil painting",
+        "photo": "https://i.ibb.co/pZpLWCN/abstruct-oil-painting.png",
+        "blog": "Welcome to the world of oil painting, where every brushstroke tells a story, and colors come alive on canvas. In this blog post, we embark on a journey through the captivating realm of oil painting, exploring its techniques, history, and endless possibilities for creative expression."
+
+    },
+    {
+        "name": "Jean Fosters",
+        "bloger_photo": "https://i.ibb.co/6HsKMdG/image3.png",
+        "category": "watercolor",
+        "photo": "https://i.ibb.co/LpvcKmT/flower-watercolor.png",
+        "blog": "Welcome to the enchanting world of watercolor painting, where pigments dance on paper, creating mesmerizing washes of color and ethereal landscapes. In this blog post, we'll dive into the captivating realm of watercolor, exploring its unique characteristics, techniques, and the endless possibilities it offers for creative expression."
+
+    }
+]
